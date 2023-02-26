@@ -33,7 +33,6 @@ https://github.com/gs0930/Project_1/blob/master/src/Project1/project1.gif
 
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
-https://imgur.com/a/mR6UiKC
 
 ## Notes
 
