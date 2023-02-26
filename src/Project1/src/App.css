@@ -1,17 +1,16 @@
 #root {
-  max-width: 1280px;
+  /* max-width: 1280px; */
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
-  color: lightblue;
+  color: rgb(23, 193, 250);
   background-color: palegreen;
 }
 
 
  body {
-  margin: 0;
-  display: flex;
+  margin: 0px;
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
